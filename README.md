@@ -1,12 +1,12 @@
 # Burst
 
-Boost your productivity with **Burst**, a minimalist Pomodoro timer that helps you stay on track. With an integrated **To-Do List**, you can focus on a single task at a time using the **Heart** feature, making tough work easier to tackle with.
+Stay focused and boost your productivity with Burst, a sleek and minimalist Pomodoro timer. Manage your workflow effortlessly with an integrated To-Do List and the Heart feature, helping you tackle tasks one at a time.
 
 ## Features
-✅ **Customizable Pomodoro Timer** – Switch between Pomodoro, short breaks, and long breaks and customize the time frames.  
-✅ **Task Management** – Add tasks and focus on them with Heart. You can also see how much time you've worked on the task.   
-✅ **Sync Across Devices** – Your sessions and tasks are saved and accessible anywhere.   
-✅ **Themes** – Sleek and modern gradient themes.
+✅ **Customizable Pomodoro Timer** – Switch between Pomodoro, short breaks, and long breaks with adjustable time settings.  
+✅ **Task Management** – Add tasks, highlight your focus with Heart, and track the time spent on each task.   
+✅ **Sync Across Devices** – Access your sessions and tasks anytime, anywhere.   
+✅ **Themes** –  Enjoy modern, gradient-based themes for a clean and stylish experience.
 
 ## Installation 
 
@@ -24,12 +24,6 @@ Boost your productivity with **Burst**, a minimalist Pomodoro timer that helps y
    ```sh
    npm run dev
    ```
-
-### **Build for Production**  
-```sh
-npm run build
-npm run start
-```
 
 ---
 
